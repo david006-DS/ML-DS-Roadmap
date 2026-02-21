@@ -24,10 +24,10 @@
 ### Daily Log
 
 #### Day 1 — SQL Basics: SELECT, WHERE, ORDER BY
-- [ ] 📺 Alex The Analyst — SQL Tutorial Part 1 (30 min)
-- [ ] 💻 Write 15-20 queries on sample database (45 min)
-- [ ] 🏋️ DataLemur — 3 Easy problems (30 min)
-- [ ] 📝 Push notes to GitHub (15 min)
+- [❌] 📺 Alex The Analyst — SQL Tutorial Part 1 (30 min)
+- [❌] 💻 Write 15-20 queries on sample database (45 min)
+- [❌]🏋️ DataLemur — 3 Easy problems (30 min)
+- [❌] 📝 Push notes to GitHub (15 min)
 
 **Notes:**
 ```
