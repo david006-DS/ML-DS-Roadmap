@@ -34,17 +34,17 @@
 Write your daily notes here...
 ```
 
-**Problems Solved:** _/3
-**Hours Studied:** _/2
+**Problems Solved:** _2/3
+**Hours Studied:** _1.5/2
 
 ---
 
 #### Day 2 — Aggregate Functions & GROUP BY
-- [ ] 📺 Alex The Analyst — GROUP BY & Aggregates (30 min)
-- [ ] 📺 techTFQ — GROUP BY and HAVING explained (30 min)
-- [ ] 💻 Write 15+ aggregation queries (45 min)
-- [ ] 🏋️ DataLemur — 3 Easy problems (30 min)
-- [ ] 📝 Review Day 1 + Day 2 notes (15 min)
+- [❌] 📺 Alex The Analyst — GROUP BY & Aggregates (30 min)
+- [❌] 📺 techTFQ — GROUP BY and HAVING explained (30 min)
+- [❌] 💻 Write 15+ aggregation queries (45 min)
+- [❌] 🏋️ DataLemur — 3 Easy problems (30 min)
+- [❌] 📝 Review Day 1 + Day 2 notes (15 min)
 
 **Notes:**
 ```
@@ -57,10 +57,10 @@ Write your daily notes here...
 ---
 
 #### Day 3 — JOINs (INNER, LEFT, RIGHT)
-- [ ] 📺 Alex The Analyst — Joins in SQL (30 min)
-- [ ] 📺 techTFQ — SQL Joins explained visually (30 min)
-- [ ] 💻 Write 20+ JOIN queries (60 min)
-- [ ] 🏋️ LeetCode SQL — 3 Easy JOIN problems (30 min)
+- [❌] 📺 Alex The Analyst — Joins in SQL (30 min)
+- [❌] 📺 techTFQ — SQL Joins explained visually (30 min)
+- [❌] 💻 Write 20+ JOIN queries (60 min)
+- [❌] 🏋️ LeetCode SQL — 3 Easy JOIN problems (30 min)
 
 **Notes:**
 ```
