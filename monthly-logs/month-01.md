@@ -73,11 +73,11 @@ Write your daily notes here...
 ---
 
 #### Day 4 — Advanced JOINs + Subqueries
-- [ ] 📺 techTFQ — Self Join and Cross Join (30 min)
-- [ ] 📺 Alex The Analyst — Subqueries in SQL (30 min)
-- [ ] 💻 Practice FULL OUTER, SELF JOIN + 10 subqueries (45 min)
-- [ ] 🏋️ DataLemur — 3 Easy/Medium problems (30 min)
-- [ ] 📝 Create JOIN cheat sheet → push to GitHub (15 min)
+- [❌] 📺 techTFQ — Self Join and Cross Join (30 min)
+- [❌] 📺 Alex The Analyst — Subqueries in SQL (30 min)
+- [❌] 💻 Practice FULL OUTER, SELF JOIN + 10 subqueries (45 min)
+- [❌] 🏋️ DataLemur — 3 Easy/Medium problems (30 min)
+- [❌] 📝 Create JOIN cheat sheet → push to GitHub (15 min)
 
 **Notes:**
 ```
@@ -90,11 +90,11 @@ Write your daily notes here...
 ---
 
 #### Day 5 — UNION, CASE WHEN, String Functions
-- [ ] 📺 Alex The Analyst — UNION and CASE statements (30 min)
-- [ ] 📺 Keith Galli — SQL string functions (30 min)
-- [ ] 💻 Practice UNION, CASE WHEN, string functions (45 min)
-- [ ] 🏋️ DataLemur — 3 problems (30 min)
-- [ ] 📝 Weekly review (15 min)
+- [❌] 📺 Alex The Analyst — UNION and CASE statements (30 min)
+- [❌] 📺 Keith Galli — SQL string functions (30 min)
+- [❌] 💻 Practice UNION, CASE WHEN, string functions (45 min)
+- [❌] 🏋️ DataLemur — 3 problems (30 min)
+- [❌] 📝 Weekly review (15 min)
 
 **Notes:**
 ```
